@@ -1,0 +1,4 @@
+ebuilds
+=======
+
+Funtoo ebuilds
